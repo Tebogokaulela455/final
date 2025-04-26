@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "applications": [],
+  "courses": [
+    "Finance, Economics and Accounting (NCV Levels 2\u20134)",
+    "Information Technology (NCV Levels 2\u20134)",
+    "Tourism (NCV Levels 2\u20134)",
+    "Safety in Society (NCV Levels 2\u20134)",
+    "Transport and Logistics (NCV Levels 2\u20134)",
+    "Computer Science (NCV Levels 2\u20134)",
+    "Tourism Diploma (N4\u2013N6)",
+    "Financial Management Diploma (N4\u2013N6)",
+    "Marketing Management Diploma (N4\u2013N6)",
+    "Business Management Diploma (N4\u2013N6)",
+    "Brick Laying",
+    "Hairdressing",
+    "Carpentry and Joinery",
+    "Plumbing"
+  ],
+  "admin": {
+    "username": "Tebogoanthony455@gmail.com",
+    "passwordHash": "$2b$12$YVVCUIEI4tsWoW0/3oXOnuf6.FvSnLNhAgVozLhbNE07jU84smVsG"
+  }
+}
